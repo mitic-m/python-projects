@@ -3,3 +3,4 @@ data.txt
 .venv/
 __pycache__/
 .idea/
+words_to_learn.csv
