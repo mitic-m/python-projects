@@ -5,8 +5,7 @@ import pandas
 import random
 import smtplib
 
-MY_EMAIL = "marko.practice26@gmail.com"
-MY_PASSWORD = "udrw tiha ezhh zvvu"
+from config import MY_EMAIL, MY_PASSWORD
 
 now = dt.datetime.now()
 today_day = now.day
